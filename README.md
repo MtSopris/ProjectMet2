@@ -8,15 +8,15 @@ In this analysis we look into the collection at the Metropolitan Museum of Art. 
 
 1. Heat Map – Number of objects in any given country
 
-<image src='static\images\map.PNG' alt='map.PNG' style='hight:500px; width: 600px;'/>
+<image src='images\map.PNG' alt='map.PNG' style='hight:500px; width: 600px;'/>
 
 2. Bar Charts - Displays analysis of the top 10 classifications found in the collection
 
-<image src='static\images\Top Ten Object Types.png’ alt='Top Ten Object Types.png' style='hight:450px; width: 600px;'/>
+<image src='images\Top Ten Object Types.png’ alt='Top Ten Object Types.png' style='hight:450px; width: 600px;'/>
 
 3. Pie Charts - Displays culture, country, and classification information in a number of variations
 
-<image src='static\images\Objects by Culture and Classification.png' alt='Objects by Culture and Classification.png' style='hight:400px; width: 600px;'/>
+<image src=images\Objects by Culture and Classification.png' alt='Objects by Culture and Classification.png' style='hight:400px; width: 600px;'/>
 
 
 
