@@ -16,7 +16,7 @@ In this analysis we look into the collection at the Metropolitan Museum of Art. 
 
 3. Pie Charts - Displays culture, country, and classification information in a number of variations
 
-<image src=images\Objects by Culture and Classification.png' alt='Objects by Culture and Classification.png' style='hight:400px; width: 600px;'/>
+<image src='images\Objects by Culture and Classification.png' alt='Objects by Culture and Classification.png' style='hight:400px; width: 600px;'/>
 
 
 
